@@ -6,7 +6,7 @@ Cubic11 Typewriter 是一个为 [Typora](https://typora.io) 设计的轻量级 M
 
 主题使用系统字体 **Cubic11**，无需额外字体文件，适合写作、小说、剧本与笔记。
 
-______ 
+______
 
 ## **🖋️ 主题特点**
 
@@ -22,11 +22,11 @@ ______
   - 窄栏阅读布局
   - 适合长时间书写
 
-______ 
+______
 
 ## **📦 安装方法**
 
-### **方法一：手动安装（推荐）**
+### **方法一：手动安装**
 
 1. 下载或克隆本仓库
 
@@ -52,39 +52,39 @@ ______
      主题 → cubic-typewriter
      ```
 
-     ______
+______
 
-     ## **🔤 字体说明**
+## **🔤 字体说明**
 
-     本主题默认使用系统字体 **Cubic11**。
+本主题默认使用系统字体 **Cubic11**。
 
-     - 如果你没有[安装 Cubic11](https://github.com/ACh-K/Cubic-11)：
-       - 主题会自动回退到系统等宽字体
-       - 建议安装以获得最佳效果
+- 如果你没有[安装 Cubic11](https://github.com/ACh-K/Cubic-11)：
+  - 主题会自动回退到系统等宽字体
+  - 建议安装以获得最佳效果
 
-     ______
+______
 
-     ## **📸 预览效果**
+## **📸 预览效果**
 
-     > ![图片](pics/preview.png)
+> ![图片](pics/preview.png)
 
-     ______
+______
 
-     ## **🛠️ 自定义建议**
+## **🛠️ 自定义建议**
 
-     你可以根据需要修改 cubic-typewriter.css 中的变量：
+你可以根据需要修改 cubic-typewriter.css 中的变量：
 
-     ```css
-     :root {
-       --bg-color: #f4f1e8;      /* 纸张颜色 */
-       --text-color: #1a1a1a;    /* 文字颜色 */
-       --line-height: 1.8;       /* 行距 */
-     }
-     ```
+```css
+:root {
+  --bg-color: #f4f1e8;      /* 纸张颜色 */
+  --text-color: #1a1a1a;    /* 文字颜色 */
+  --line-height: 1.8;       /* 行距 */
+}
+```
 
-     ______
+______
 
-     ## **🙌 Thanks to**
+## **🙌 致谢**
 
-     - 字体：[Cubic 11](https://github.com/ACh-K/Cubic-11)
-     - Markdown 编辑器：[Typora](https://typora.io)
+- 字体：Cubic11
+- Markdown 编辑器：[Typora](https://typora.io)
